@@ -38,7 +38,7 @@ function draw() {
     background("cyan");
     image (cenario,600,300,1200,600);
 
-    canhao.abacaxi();
+    canhao.show();
     torre.show()
     bala.show()
 }
