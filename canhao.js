@@ -10,7 +10,7 @@ class Canhao{
     }
 
     //método para exibir as imagens
-    abacaxi(){
+    show(){
         console.log(this.angulo)
         //checa se é vdd que apertei a tecla
         if(keyIsDown(LEFT_ARROW) && this.angulo > -34){
